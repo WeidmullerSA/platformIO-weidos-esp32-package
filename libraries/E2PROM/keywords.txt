@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For EEPROM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+E2PROM	KEYWORD1
+E2Ref	KEYWORD1
+EEPtr	KEYWORD2
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read	KEYWORD2
+write	KEYWORD2
+update	KEYWORD2
+begin	KEYWORD2
+end	KEYWORD2
+length	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+E2END	LITERAL1
+#######################################
